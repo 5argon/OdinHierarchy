@@ -1,0 +1,9 @@
+{
+    "name": "com.e7.odinhierarchy",
+    "displayName": "Odin Hierarchy",
+    "version": "1.0.0",
+    "description": "Pimp your Hierarchy based on pattern matching.",
+    "keywords": [
+        "Odin Inspector"
+    ]
+}

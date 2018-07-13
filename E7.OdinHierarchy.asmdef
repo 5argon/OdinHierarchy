@@ -1,0 +1,15 @@
+{
+    "name": "E7.OdinHierarchy",
+    "references": [
+        "Sirenix.OdinInspector.Attributes",
+        "Sirenix.OdinInspector.Editor",
+        "Sirenix.Utilities",
+        "Sirenix.Utilities.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
